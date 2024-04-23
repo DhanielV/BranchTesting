@@ -1,5 +1,5 @@
 abstract class Animal {
-    private String name;
+    public String name;
 
 public abstract void makeSound();
 
